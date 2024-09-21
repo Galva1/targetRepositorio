@@ -27,10 +27,15 @@ Retornando: **77**
 
 # Questão 04
 Por ser uma questão sem retorno, irei realizar comentada.
+
 a- 1, 3, 5, 7, 9 -> Variável anterior somado +2.
+
 b- 2, 4, 8, 16, 32, 64, 128 -> Variável anterior multiplicada * 2.
+
 c- 0, 1, 4, 9, 16, 25, 36, 49 -> Quadrado dos números inteiros.
+
 d- 4, 16, 36, 64, 100 -> Números pares elevado ao quadrado.
+
 e- 1, 1, 2, 3, 5, 8, 13 -> Fibonacci.
 
 # Questão 05
