@@ -55,8 +55,13 @@ E por fim o último interruptor é o da sala que você não visitou.
 **Metodo 2:** 
 
 Caso não possa utilizar de elementos como o calor da lâmpada a tentativa pode não ser certeira.
+
 Ligando dois interruptores e entrando na 1 sala:
+
 Se estiver apagado é o interruptor restante, é só repetir essa ação mais uma vez e encontrar (3/3)
+
 Caso esteja aceso, você sai da sala apaga os dois e acende o terceiro e entra na outra sala:
+
 Se estiver aceso é o que você acendeu (1/3) e terá que chutar os outros dois 50%
+
 Caso esteja apagado é um dos dois interruptores que você acendeu anteriormente, sobrando esse interruptor que foi acendido agora para a sala que você não acendeu (1/3), sobrando 50% de chance de chutar o outro.
